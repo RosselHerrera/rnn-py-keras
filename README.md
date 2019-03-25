@@ -36,11 +36,19 @@ Los pasos que va a cubrir son los siguientes:
 5.- Evaluar modelo.
 6.- Ponlo todo junto.
 
-Anaconda Prompt
+Anaconda Prompt>
 
-<newenvt> C:\Users\Lozoronca\Miniconda3\Tools\cookbook>
---------------------------------------------
-conda create -n newenvt anaconda python=3.7
-activate newenvt
---------------------------------------------
-conda install tensorflow
+1.- <newenvt> C:\Users\Lozoronca\Miniconda3\Tools\cookbook>
+
+2.- conda create -n newenvt anaconda python=3.7
+
+3.- activate newenvt
+
+4.- conda install tensorflow
+
+ Anaconda Prompt> C:\Users\Lozoronca\Miniconda3\Tools\cookbook\rnn.2.py 
+
+5.- desactivate newent (al finalizar su sesion)
+
+
+
