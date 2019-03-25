@@ -15,15 +15,15 @@ Se trata de un problema de clasificación binaria
 Las variables de entrada que describen a cada paciente son numéricas y tienen variables de escalas. 
 A continuación se enumeran los ocho atributos del set de datos:
 
-# 1. Número de embarazos.
-# 2. Concentración de glucosa en plasma a 2 horas en una prueba oral de tolerancia a la glucosa.
-# 3. Presión arterial diastólica (mm Hg).
-# 4. Grosor del pliegue de la piel del tríceps (mm).
-# 5. Insulina sérica de 2 horas (mu U/ml).
-# 6. Índice de masa corporal.
-# 7. Función del pedigrí de la diabetes.
-# 8. Edad (años).
-# 9. Clase, aparición de diabetes en un plazo de cinco años.
+ 1. Número de embarazos.
+ 2. Concentración de glucosa en plasma a 2 horas en una prueba oral de tolerancia a la glucosa.
+ 3. Presión arterial diastólica (mm Hg).
+ 4. Grosor del pliegue de la piel del tríceps (mm).
+ 5. Insulina sérica de 2 horas (mu U/ml).
+ 6. Índice de masa corporal.
+ 7. Función del pedigrí de la diabetes.
+ 8. Edad (años).
+ 9. Clase, aparición de diabetes en un plazo de cinco años.
 
 Red Neural con Python-Keras-TensorFlow
 
